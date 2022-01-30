@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "EasyHookTest", "EasyHookTest\EasyHookTest.vbproj", "{0C244CFC-4F53-4D9E-8C7A-B320D77FBA8E}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "EasyHookLib", "EasyHookLib\EasyHookLib.vbproj", "{4740EAC9-7239-4214-9F56-56AB30047819}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C244CFC-4F53-4D9E-8C7A-B320D77FBA8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C244CFC-4F53-4D9E-8C7A-B320D77FBA8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C244CFC-4F53-4D9E-8C7A-B320D77FBA8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C244CFC-4F53-4D9E-8C7A-B320D77FBA8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4740EAC9-7239-4214-9F56-56AB30047819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4740EAC9-7239-4214-9F56-56AB30047819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4740EAC9-7239-4214-9F56-56AB30047819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4740EAC9-7239-4214-9F56-56AB30047819}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23632842-9B01-4163-9457-0F25CE2E9360}
+	EndGlobalSection
+EndGlobal
